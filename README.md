@@ -52,7 +52,12 @@
 | DefAI Swap | Rust |2025-08 | Solana |
 | UXLink | Solidity |2025-09 | Ethereum |
 | Aifortuna | Solidity | 2025-09 | Ethereum |
+| Bitgold | Solidity | 2025-09 | Ethereum |
 | Janction | Solidity | 2025-10 | Ethereum |
+| TenetSwap | Solidity | 2025-10 | Morph |
+| Tntx evm | Solidity | 2025-10 | Ethereum |
+| Tntx solana | Rust | 2025-10 | Solana |
+| Nubila | Solidity | 2025-10 | Ethereum |
 
 ## Chain Audit
 
