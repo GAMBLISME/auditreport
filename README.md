@@ -59,7 +59,7 @@
 | Tntx solana | Rust | 2025-10 | Solana |
 | Nubila | Solidity | 2025-10 | Ethereum |
 | Yala | Solidity | 2025-10 | Ethereum |
-
+| Janction Token | Solidity | 2025-11 | Ethereum,BSC|
 
 
 
